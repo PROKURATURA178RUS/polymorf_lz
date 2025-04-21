@@ -1,4 +1,4 @@
-import polymorf as po  # Рассчет перестановок
+import polymorf as po  
 
 
 def main():
